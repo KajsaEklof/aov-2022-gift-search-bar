@@ -1,3 +1,15 @@
+My solution for Advent of Vue 2022 1 December 2022
+
+- ✨ CSS Spinner from [CSSLoaders](https://cssloaders.github.io/)
+
+### Possible improvements
+
+- Paginate the list of results, it's currently limited to 10 items
+- Style the display the product name and price. Add the image of the items in the list
+- Flex and write my own debounce method
+
+Forked Readme 👇
+
 # Advent Of Vue 2022
 
 ## If you didn't get here from an email, read this section! Skip it otherwise.
